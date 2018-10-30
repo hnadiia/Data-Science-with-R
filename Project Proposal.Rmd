@@ -1,0 +1,28 @@
+---
+Project title: "Project Proposal"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Project Proposal
+
+__Project title:__ ""
+
+__Names of team members:__ Rutuja Shivraj Pawar (220051),
+                       Shivani Jadhav (),
+                       Sumit Kundu ()
+
+__Date:__ ```r format(Sys.Date(), "%B %e, %Y")```
+
+__Background and motivation:__
+
+__Project objectives:__
+
+__Name of the dataset to be used:__
+
+__Design overview:__
+
+__Time plan:__ 
