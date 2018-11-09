@@ -1,19 +1,25 @@
 ---
-Project title: "Project Proposal"
-output: html_document
+Project title: "Data Science with R Project Proposal"
+output:
+  rmarkdown::html_document:
+    theme: lumen
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Project Proposal
+#Data Science with R Project Proposal
 
 __Project title:__ ""
 
-__Names of team members:__ Rutuja Shivraj Pawar (220051),
-                       Shivani Jadhav (),
-                       Sumit Kundu ()
+__Names of team members:__<br /> 
+1. Nadiia Honcharenko (220681) <br />
+2. Rutuja Shivraj Pawar (220051, rutuja.pawar@ovgu.de) <br />
+3. Shivani Jadhav () <br />
+4. Sumit Kundu () 
+
+__Under the Guidance of:__ M.Sc. Uli Niemann
 
 __Date:__ ```r format(Sys.Date(), "%B %e, %Y")```
 
@@ -26,3 +32,33 @@ __Name of the dataset to be used:__
 __Design overview:__
 
 __Time plan:__ 
+
+
+
+
+
+---
+#Comments
+
+# Dont display warnings
+# {r, warning = FALSE}
+
+# Dont display code
+# {r, echo=FALSE}
+
+# To store long computation results in a local cache
+# {r, cache=TRUE}
+
+# Exmaple usage of labelling and reusing code chunks
+# ```{r iris_plot, echo = FALSE, eval = FALSE}
+# library(ggplot2)
+# ggplot(iris, aes(x = Species, y = Sepal.Length)) + geom_boxplot()
+#```
+
+# ```{r , ref.label='iris_plot', fig.width = 7, fig.height = 2.5}
+# ```
+
+# Inline R code usng r
+# A random sample of 5 numbers from the set of numbers between 
+# 1 and 10 is `r sample(1:10, 5)` 
+---
