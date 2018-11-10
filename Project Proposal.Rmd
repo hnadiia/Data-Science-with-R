@@ -3,15 +3,17 @@ Project title: "Data Science with R Project Proposal"
 output:
   rmarkdown::html_document:
     theme: lumen
+bibliography: bibliography.bib
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ``` 
 
-#Data Science with R Project Proposal
+### Project Proposal on Customer Behavioural Analytics in the Retail sector
 
-__Project title:__ ""
+__Project title:__ "Customer Behavioural Analytics in the Retail sector" <br />
 
 __Names of team members:__<br /> 
 1. Nadiia Honcharenko (220681) <br />
@@ -27,7 +29,10 @@ __Background and motivation:__
 
 __Project objectives:__
 
-__Name of the dataset to be used:__
+__Name of the dataset to be used:__ Supermarket aggr.Customer^[https://bigml.com/user/czuriaga/gallery/dataset/5559c2c6200d5a6570000084] <br />
+The dataset to be used is the retail market data of one of the largest Italian retail distribution company called Coop for a single Italian city [@pennacchioli2013explaining].<br />
+It contains 40 features with 60,366 instances and is approximately 14.0 MB in size. 
+
 
 __Design overview:__
 
