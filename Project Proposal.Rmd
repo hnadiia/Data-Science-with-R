@@ -3,7 +3,7 @@ Project title: "Data Science with R Project Proposal"
 output:
   rmarkdown::html_document:
     theme: lumen
-bibliography: bibliography.bib
+bibliography: bibliography.bib 
 ---
 
 
@@ -38,7 +38,9 @@ __Design overview:__
 
 __Time plan:__ 
 
+__GitHub Repository:__ https://github.com/Rspawar/Data-Science-with-R.git 
 
+__References:__
 
 
 
