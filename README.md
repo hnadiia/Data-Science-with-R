@@ -4,7 +4,7 @@
 # Motivation
 
 # Overview of the Input Dataset
-The dataset used is Supermarket aggr.Customer [1]. The dataset contains the retail market data of one of the largest Italian retail distribution company called Coop for a single Italian city [2].<br />
+The dataset used is Supermarket aggr.Customer [1]. The dataset contains the retail market data of one of the largest Italian retail distribution company called <i>Coop</i> for a single Italian city [2].<br />
 The Supermarket aggr.Customer dataset used for the analysis contains data aggregated from the original datasets [2,3] and mapped to new columns. The dataset thus contains 40 features with 60,366 instances and is approximately 14.0 MB in size.
 
 # Installation and Run
