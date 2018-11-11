@@ -11,32 +11,34 @@ bibliography: bibliography.bib
 knitr::opts_chunk$set(echo = TRUE)
 ``` 
 
-### Project Proposal on Customer Behavioural Analytics in the Retail sector
-
-__Project title:__ "Customer Behavioural Analytics in the Retail sector" <br />
+### Project Proposal on Customer Behavioural Analytics in the Retail sector 
+<br> 
+__Project title:__ <font color ="black"> "Customer Behavioural Analytics in the Retail sector" <br /> </font> </font>
 
 __Names of team members:__<br /> 
+<font color ="black">
 1. Nadiia Honcharenko (220681) <br />
 2. Rutuja Shivraj Pawar (220051, rutuja.pawar@ovgu.de) <br />
 3. Shivani Jadhav () <br />
 4. Sumit Kundu () 
+</font>
 
-__Under the Guidance of:__ M.Sc. Uli Niemann
+__Under the Guidance of:__ <font color ="black"> M.Sc. Uli Niemann </font>
 
-__Date:__ ```r format(Sys.Date(), "%B %e, %Y")```
+__Date:__ <font color ="black"> ```r format(Sys.Date(), "%B %e, %Y")``` </font>
 
-__Background and motivation:__
+__Background and motivation:__ <font color ="black"> </font>
 
-__Project objectives:__
+__Project objectives:__ <font color ="black"> </font>
 
-__Name of the dataset to be used:__ Supermarket aggr.Customer^[https://bigml.com/user/czuriaga/gallery/dataset/5559c2c6200d5a6570000084] <br />
-The dataset to be used is the retail market data of one of the largest Italian retail distribution company called Coop for a single Italian city [@pennacchioli2013explaining].<br />
-It contains 40 features with 60,366 instances and is approximately 14.0 MB in size. 
+__Name of the dataset to be used:__ <font color ="black"> Supermarket aggr.Customer^[https://bigml.com/user/czuriaga/gallery/dataset/5559c2c6200d5a6570000084] <br />
+The dataset to be used is the retail market data of one of the largest Italian retail distribution company called _Coop_ for a single Italian city [@pennacchioli2013explaining].<br />
+The Supermarket aggr.Customer dataset used for the analysis contains data aggregated from the original datasets^[http://www.michelecoscia.com/?page_id=379] [@pennacchioli2013explaining] and mapped to new columns. The dataset thus contains 40 features with 60,366 instances and is approximately 14.0 MB in size. </font> 
 
 
-__Design overview:__
+__Design overview:__ <font color ="black"> </font>
 
-__Time plan:__ 
+__Time plan:__ <font color ="black"> </font>
 
 __GitHub Repository:__ https://github.com/Rspawar/Data-Science-with-R.git 
 
