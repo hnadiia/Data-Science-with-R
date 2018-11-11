@@ -30,7 +30,8 @@ __Date:__ <font color ="black"> ```r format(Sys.Date(), "%B %e, %Y")``` </font>
 __Background and motivation:__ <font color ="black"> 
 <p>Consumer behavior is the series of behaviors or patterns that consumers follow before making a purchase.
 Understanding of customer decisions helps to increase an annual revenue of companies and satisfy the needs of clients.</p>
-<p>In this project we are trying to research a customer behaviour during shopping. how consumers make buying decisions and what influences those decisions
+<p>In this project we are trying to research a customer behaviour during shopping, 
+how consumers make buying decisions and what influences those decisions.
 This study shows that products have a "range" effect:
 for some products, customers travel long distances, while
 for other products they settle down with the closest shop. 
